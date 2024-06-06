@@ -4,7 +4,7 @@ Hi 👋 My name is Outhmane Dahmoune
 Junior Full Stack Developper
 ----------------------------
 
-Junior full stack developer, with more than 2 years of experience. Computer buff, I learned to code from an early age in various computer languages ​​(Javascript, PHP, C#…) and created projects for people and also for clients as a Freelancer. Versatile, I master the different technical stages of creating a website or a web application; from understanding user needs, to frontend and backend development and maintenance.
+Junior full stack developer, with more than 2 years of experience. Computer buff, I learned to code from an early age in various computer languages ​​(Javascript, java, C#…) and created projects for people and also for clients as a Freelancer. Versatile, I master the different technical stages of creating a website or a web application; from understanding user needs, to frontend and backend development and maintenance.
 
 *   🌍  I'm based in Paris
 *   ✉️  You can contact me at [dahmoune.oth@gmail.com](mailto:dahmoune.oth@gmail.com)
